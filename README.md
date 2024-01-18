@@ -21,16 +21,21 @@ To run the project locally, follow these steps:
 
 ```bash
 git clone https://github.com/SAURABHSINGHDHAMI/Plant-Disease-Detection.git
+```
+
+2. Navigate to the project directory:
+
+```bash
 cd Plant-Disease-Detection
 ```
 
-2. **Install the required packages:**
+3. **Install the required packages:**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. **Run the Streamlit web application:**
+4. **Run the Streamlit web application:**
 
 ```bash
 streamlit run main_app.py
